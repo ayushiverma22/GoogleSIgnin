@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031840212775",
+    "project_id": "signin-69951",
+    "storage_bucket": "signin-69951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031840212775:android:50e6593316c26e4dddeb02",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031840212775-tm28l08buf3pd9blu9eo352hiak163eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXXoZpNRZ_nMox1lH8WkIFpXmJIDJkbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031840212775-tm28l08buf3pd9blu9eo352hiak163eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
